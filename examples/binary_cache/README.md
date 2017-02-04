@@ -3,7 +3,7 @@ IPFS Binary Cache
 
 A script set (not yet releases) publishes currently to
 
-`/ipns/QmSq31sU15Qi1K6AbedLjiTgYzxhrB9WPA5URDMsNwXmZJ`
+`/ipns/Qmdjn23LZJAK5qnMVZRy6v5rtRcRuoLz1uNNm2PLf3EkLy`
 
 which is also linked from (be aware: no DNSSEC)
 
