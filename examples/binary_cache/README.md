@@ -1,7 +1,7 @@
 IPFS Binary Cache
 =================
 
-A script set (not yet releases) publishes currently to
+[A script](https://github.com/NixIPFS/nixipfs-scripts) publishes currently to
 
 `/ipns/Qmdjn23LZJAK5qnMVZRy6v5rtRcRuoLz1uNNm2PLf3EkLy`
 
